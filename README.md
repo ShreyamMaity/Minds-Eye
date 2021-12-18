@@ -1,6 +1,3 @@
-# Minds Eye Bot
-A Venture made for Wadhwani Foundation's foundational course in Entrepreneurship 
-
 <p align="center"><img src="./assets/img/512x512.png" width="150px"/></p>
 <h1 align="center">Minds Eye Bot</h1>
 <h4 align="center">A Venture made for Wadhwani Foundation's foundational course in Entrepreneurship</h4>
